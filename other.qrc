@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>other/jackinthebox.wav</file>
+        <file>other/Boom.gif</file>
+        <file>other/JackinTheBoxZombieAttack.gif</file>
+        <file>other/JackinTheBoxZombieDie.gif</file>
+        <file>other/JackinTheBoxZombieGoOut.gif</file>
+        <file>other/JackinTheBoxZombieWalk.gif</file>
+        <file>other/SnowZombie.wav</file>
+        <file>other/SnowZombieBoomDie.gif</file>
+        <file>other/SnowZombieDie.gif</file>
+        <file>other/SnowZombieWalk.gif</file>
+    </qresource>
+</RCC>

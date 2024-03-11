@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/close1.png</file>
+        <file>res/close2.png</file>
+        <file>res/enter.jpg</file>
+        <file>res/help1.png</file>
+        <file>res/help2.png</file>
+        <file>res/save1.png</file>
+        <file>res/save2.png</file>
+        <file>res/start1.png</file>
+        <file>res/start2.png</file>
+        <file>res/Grazy Dave.wav</file>
+        <file>res/Laura Shigihara - Grasswalk IN-GAME.wav</file>
+        <file>res/Help.png</file>
+        <file>res/awooga.wav</file>
+        <file>res/cherrybomb.wav</file>
+        <file>res/chompsoft.wav</file>
+        <file>res/groan2.wav</file>
+        <file>res/lawnmower.wav</file>
+        <file>res/losemusic.wav</file>
+        <file>res/plant1.wav</file>
+        <file>res/siren.wav</file>
+        <file>res/pea.wav</file>
+        <file>res/frozen.wav</file>
+        <file>res/kernelpult2.wav</file>
+        <file>res/points.wav</file>
+        <file>res/night.wav</file>
+    </qresource>
+</RCC>
